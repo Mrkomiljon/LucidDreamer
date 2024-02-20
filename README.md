@@ -1,5 +1,7 @@
 # LucidDreamer 
-<Domain-free Generation of 3D Gaussian Splatting Scenes> 
+## Domain-free Generation of 3D Gaussian Splatting Scenes
+
+### Test_result
 ![tolkacha](https://github.com/Mrkomiljon/LucidDreamer/assets/92161283/ef4d4237-59bb-4bb0-8cbe-c6c0ebec27c9)
 
 <llff> 
